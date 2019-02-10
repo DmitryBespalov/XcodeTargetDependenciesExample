@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  MyNewProject
+
+  Created by Dmitry Bespalov on 10.02.19.
+  Copyright © 2019 Bespalov Software. All rights reserved.
+*/
+
+"some.key" = "Hello, world!";
